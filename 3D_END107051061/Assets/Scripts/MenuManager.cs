@@ -3,15 +3,17 @@ using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
-    void StartGame()
+    public void StartGame()
     { 
         print("開始");
         SceneManager.LoadScene("場景");
         
     }
-    void QuitGame()
+    public void QuitGame()
     {
         print("結束");
         Application.Quit();
+
     }
+    
 }

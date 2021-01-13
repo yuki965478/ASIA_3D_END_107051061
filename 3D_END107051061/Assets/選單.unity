@@ -283,7 +283,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ea68aa111adc3264f9968657e12cc86a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -21.98
+      value: -24.598
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ea68aa111adc3264f9968657e12cc86a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -320,6 +320,18 @@ PrefabInstance:
     - target: {fileID: 400000, guid: ea68aa111adc3264f9968657e12cc86a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ea68aa111adc3264f9968657e12cc86a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 7.292669
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ea68aa111adc3264f9968657e12cc86a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 7.292669
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ea68aa111adc3264f9968657e12cc86a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 7.292669
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: ea68aa111adc3264f9968657e12cc86a, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -501,12 +513,12 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1237304525}
-        m_MethodName: 
+      - m_Target: {fileID: 1237304526}
+        m_MethodName: QuitGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -869,12 +881,12 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1237304525}
-        m_MethodName: 
+      - m_Target: {fileID: 1237304526}
+        m_MethodName: StartGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -11073,15 +11085,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e314a8994372dc4c8aac1566667c39f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 22.707405
+      value: 23.057
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e314a8994372dc4c8aac1566667c39f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -19.089546
+      value: -19.293
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e314a8994372dc4c8aac1566667c39f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 31.092846
+      value: 30.982
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e314a8994372dc4c8aac1566667c39f, type: 3}
       propertyPath: m_LocalRotation.x
@@ -11114,6 +11126,18 @@ PrefabInstance:
     - target: {fileID: 400000, guid: 5e314a8994372dc4c8aac1566667c39f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 41.049004
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 5e314a8994372dc4c8aac1566667c39f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 6.537146
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 5e314a8994372dc4c8aac1566667c39f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6.537146
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 5e314a8994372dc4c8aac1566667c39f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 6.537146
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: 5e314a8994372dc4c8aac1566667c39f, type: 3}
       propertyPath: m_Materials.Array.data[0]
